@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.cache
+/SolidPrinciples/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/SolidPrinciples/obj/Debug/net6.0
+/SolidPrinciples/obj
+/.vs/LearnSharp/DesignTimeBuild
+/.vs/VSWorkspaceState.json
+/src/DesignPattern/obj
+/.vs/LearnSharp/v17/TestStore/0
+/.vs/LearnSharp/v17/.futdcache.v1
